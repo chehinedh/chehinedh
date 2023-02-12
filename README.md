@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Engineering Student 💻
 -------------------------
 
-I I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
+ I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
 
 * 🌍  I'm based in Monastir, Tunisia
 * ✉️  You can contact me at [chehine.dhemaied@esprit.tn](mailto:chehine.dhemaied@esprit.tn )
