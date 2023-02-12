@@ -8,12 +8,12 @@
 IT Engineering Student 💻
 -------------------------
 
- I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
+I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
 
-* 🌍  I'm based in Monastir, Tunisia
+
 * ✉️  You can contact me at [chehine.dhemaied@esprit.tn](mailto:chehine.dhemaied@esprit.tn )
 * 🧠  I'm learning MERN stack, Django and Flask
-* 🤝  I'm open to collaborating on collaborating on open Source Project to gain some experience and working as a freelancer
+* 🤝  I'm open to collaborating on open Source Project to gain some experience and working as a freelancer
 
 <a href="https://www.github.com/chehinedh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
