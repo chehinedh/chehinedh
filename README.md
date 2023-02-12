@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chehine dhemaied
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chehine Dhemaied
 ========================================================================================================================================
 
 IT Engineering Student 💻
@@ -8,7 +8,7 @@ I I’m currently studying at ESPRIT Higher School of Engineering with a passion
 
 * 🌍  I'm based in Monastir, Tunisia
 * ✉️  You can contact me at [chehine.dhemaied@esprit.tn](mailto:chehine.dhemaied@esprit.tn )
-* 🧠  I'm learning MERN stack django and flask
+* 🧠  I'm learning MERN stack, Django and Flask
 * 🤝  I'm open to collaborating on collaborating on open Source Project to gain some experience and working as a freelancer
 
 <a href="https://www.github.com/chehinedh" target="_blank" rel="noreferrer"><img
