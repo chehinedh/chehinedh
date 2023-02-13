@@ -1,8 +1,21 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440"/>
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440"/> <br>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/chehine-dhemaied-393604239/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chehine.dhemaied@esprit.tn">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=chehinedh&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/chehinedh.svg?style=for-the-badge&logo=appveyor">
+  </div>
 
-   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chehine Dhemaied 
+<div>
+<br>
+   <a href="https://github.com/chehinedh">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine;Hey+I+am+Chehine+Dhemaied!" alt="chehinedh" /></a>
+</h1>
 ===============================================================================================
 
 IT Engineering Student 💻
