@@ -4,9 +4,6 @@
    <a href="https://www.linkedin.com/in/chehine-dhemaied-393604239/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:chehine.dhemaied@esprit.tn">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
     <img src="https://komarev.com/ghpvc/?username=chehinedh&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/chehinedh.svg?style=for-the-badge&logo=appveyor">
   </div>
