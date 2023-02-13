@@ -14,7 +14,7 @@
 <div>
 <br>
    <a href="https://github.com/chehinedh">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine+Dhemaied;IT+Engineering+Student!" alt="chehinedh" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine+Dhemaied;IT+Engineering+Student" alt="chehinedh" /></a>
 </h1>
 =====================================================================================
 
