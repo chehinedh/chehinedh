@@ -14,11 +14,11 @@
 <div>
 <br>
    <a href="https://github.com/chehinedh">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine;Hey+I+am+Chehine+Dhemaied!" alt="chehinedh" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine+Dhemaied;IT+Engineering+Student!" alt="chehinedh" /></a>
 </h1>
-===============================================================================================
+=====================================================================================
 
-IT Engineering Student 💻
+![image](https://user-images.githubusercontent.com/92646213/218589856-f53cbae7-ccc9-419c-8427-ed21940a001e.png) About me:
 -------------------------
 
 I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
