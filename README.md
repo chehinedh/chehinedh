@@ -18,7 +18,7 @@
 </h1>
 =====================================================================================
 
-![image](https://user-images.githubusercontent.com/92646213/218589856-f53cbae7-ccc9-419c-8427-ed21940a001e.png) About me:
+💁‍♂️ About Me :
 -------------------------
 
 I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
