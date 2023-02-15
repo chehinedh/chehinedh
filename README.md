@@ -15,7 +15,7 @@
 </h1>
 
 :tipping_hand_man: About Me :
--------------------------
+
 
 I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
 
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the
   
 :rocket: Skills
   
--------------------------
+
 
   
   
