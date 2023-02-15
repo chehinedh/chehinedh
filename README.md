@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the
 
  
   
-:rocket: Skills
+:rocket: Skills :
   
 
 
@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the
 
   
   
-:arrow_right: My GitHub Stats
+:arrow_right: My GitHub Stats :
   
 -------------------------
 
