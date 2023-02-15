@@ -50,7 +50,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 
   
   
-:arrow_right: My GitHub Stats :
+:chart_with_upwards_trend: My GitHub Stats :
   
 
 
