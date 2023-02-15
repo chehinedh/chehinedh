@@ -14,7 +14,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine+Dhemaied;IT+Engineering+Student" alt="chehinedh" /></a>
 </h1>
 
-💁‍♂️ About Me :
+:tipping_hand_man: About Me :
 -------------------------
 
 I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
@@ -27,8 +27,8 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 <a href="https://www.github.com/chehinedh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
-### Skills
-
+:rocket: Skills
+-------------------------
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -45,7 +45,8 @@ src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### My GitHub Stats
+:arrow_right: My GitHub Stats
+-------------------------
 
 <a href="http://www.github.com/chehinedh"><img src="https://github-readme-stats.vercel.app/api?username=chehinedh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="chehinedh's GitHub stats" /></a>
 
