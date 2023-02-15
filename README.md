@@ -24,8 +24,6 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 * 🧠  I'm learning MERN stack, Django and Flask
 * 🤝  I'm open to collaborating on open Source Project to gain some experience and working as a freelancer
 
-<a href="https://www.github.com/chehinedh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chehinedh?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
  
   
