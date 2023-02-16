@@ -24,7 +24,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 
  
   
-### :rocket: Skills :
+## :rocket: Skills :
   
 
 <p align="left">
@@ -46,7 +46,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 </p>
   
   
-### :chart_with_upwards_trend: My GitHub Stats :
+## :chart_with_upwards_trend: My GitHub Stats :
   
 
 
@@ -61,7 +61,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 <a href="https://github.com/chehinedh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chehinedh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
   
-### :mag_right: Find me on :
+## :mag_right: Find me on :
 
 <div align="center">
 <a href="https://github.com/chehinedh">
