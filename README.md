@@ -1,9 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440"/> <br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/> <br>
   <div id="badges">
-   <a href="https://www.linkedin.com/in/chehine-dhemaied-393604239/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
     <img src="https://komarev.com/ghpvc/?username=chehinedh&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/chehinedh.svg?style=for-the-badge&logo=appveyor">
   </div>
@@ -63,3 +60,18 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 <a href="http://www.github.com/chehinedh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chehinedh&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/chehinedh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chehinedh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+  
+## :mag_right: Find me on :
+
+<div align="center">
+<a href="https://github.com/chehinedh">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:chehine.dhemaied@esprit.tn">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/chehine-dhemaied-393604239/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>      
+</div>
