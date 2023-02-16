@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine+Dhemaied;IT+Engineering+Student" alt="chehinedh" /></a>
 </h1>
 
-### :tipping_hand_man: About Me :
+# :tipping_hand_man: About Me :
 
 
 I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. I am a beginner, but I am dedicated and motivated to improve my abilities. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
