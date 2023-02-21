@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/> <br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460"/> <br>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=chehinedh&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/chehinedh.svg?style=for-the-badge&logo=appveyor">
