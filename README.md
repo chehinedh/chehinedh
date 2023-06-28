@@ -18,7 +18,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 
 
 * ✉️  You can contact me at [chehine.dhemaied@esprit.tn](mailto:chehine.dhemaied@esprit.tn )
-* 🧠  I'm currently learning MERN stack and Django 
+* 🧠  I'm currently learning Nextjs and Django 
 * 🤝  I'm open to collaborating on open Source Project to gain some experience and working as a freelancer
 
 
