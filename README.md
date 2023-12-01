@@ -35,7 +35,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 ## :closed_book: DataBase
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
   </a>
 <p>
 
@@ -44,7 +44,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 <p>
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,github,git,maven,graphql,postman,linux,vite,docker,jenkins,grafana" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,github,git,maven,firebase,graphql,postman,linux,vite,docker,jenkins,grafana" />
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
