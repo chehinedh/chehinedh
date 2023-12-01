@@ -27,7 +27,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 ## 🚀 Frameworks and Languages
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,angular,react,express,nodejs,spring," />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,angular,react,express,nodejs,spring,django," />
   </a>
 </p>
 
