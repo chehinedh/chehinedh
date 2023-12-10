@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Chehine+Dhemaied;IT+Engineering+Student" alt="chehinedh" /></a>
 </h1>
 
-## :tipping_hand_man: About Me :
+## 💁 About Me :
 
 
 I’m currently studying at ESPRIT Higher School of Engineering with a passion for web development. I have been learning and exploring the world of coding, and I am eager to expand my knowledge and skills in this field. You can find my learning projects and experiments here on my GitHub profile. Thank you for visiting!
@@ -32,14 +32,14 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 </p>
 
 
-## :closed_book: DataBase
+## 📘 DataBase
 <p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
   </a>
 <p>
 
-## :wrench: Tools
+## 🔧 Tools
 
 <p>
 
@@ -51,7 +51,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 <p>
   
   
-## :chart_with_upwards_trend: My GitHub Stats
+## 📈 My GitHub Stats
    
  <a href="https://github.com/chehinedh"><img src="https://github-readme-stats.vercel.app/api?username=chehinedh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chehinedh's GitHub stats" /></a> <a href="http://www.github.com/chehinedh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chehinedh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
@@ -67,7 +67,7 @@ I’m currently studying at ESPRIT Higher School of Engineering with a passion f
 
 
   
-## :mag_right: Find me on :
+## 🔎 Find me on :
 
 <div align="center">
 <a href="https://github.com/chehinedh">
